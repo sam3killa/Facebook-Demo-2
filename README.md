@@ -1,3 +1,8 @@
 # Facebook
-Facebook protoype app
-This is a sample prototype app built as part of iOS training class
+This is a prototype of the Facebook App
+
+Total Hours Spent: 4 Hours
+
+Walkthrough of the app:
+
+![Video Walkthrough](facebook.gif)
